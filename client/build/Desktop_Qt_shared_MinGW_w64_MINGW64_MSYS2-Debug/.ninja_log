@@ -1,0 +1,15 @@
+# ninja log v6
+3692	3884	7513330187610519	client.exe	1d7b1477516b6880
+875	3692	7513330159441280	CMakeFiles/client.dir/mainwindow.cpp.obj	597047f4a9f4c0ea
+869	3200	7513330159371252	CMakeFiles/client.dir/client_autogen/mocs_compilation.cpp.obj	2ac86841af433cc8
+164	865	7513330158585358	D:/projects/QTProjects/client/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/client_autogen/mocs_compilation.cpp	d56d6512c455c939
+164	865	7513330158585358	D:/projects/QTProjects/client/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/client_autogen/timestamp	d56d6512c455c939
+872	3415	7513330159411270	CMakeFiles/client.dir/main.cpp.obj	eaba72627f08ee56
+164	865	7513330158585358	client_autogen/mocs_compilation.cpp	d56d6512c455c939
+164	865	7513330158585358	client_autogen/timestamp	d56d6512c455c939
+19	95	7513330347943339	D:/projects/QTProjects/client/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/cmake.verify_globs	93015fb8adee3bd8
+95	585	7513330352391158	build.ninja	355b62f8ee98b009
+16	101	7513330353351633	D:/projects/QTProjects/client/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/cmake.verify_globs	93015fb8adee3bd8
+12	96	7513330528001955	D:/projects/QTProjects/client/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/cmake.verify_globs	93015fb8adee3bd8
+11	91	7513331037562420	D:/projects/QTProjects/client/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/cmake.verify_globs	93015fb8adee3bd8
+18	136	7513338875373901	D:/projects/QTProjects/client/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/CMakeFiles/cmake.verify_globs	93015fb8adee3bd8
